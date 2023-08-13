@@ -28,7 +28,7 @@ jobs:
 
     - name: "Use GTO"
       id: gto
-      uses: iterative/gto-action@1472340
+      uses: iterative/gto-action@14723404a00bb0c1e759c02ffcd24279df5815c2
     
     - uses: actions/setup-python@v2
 
